@@ -10,7 +10,7 @@ export default function App() {
 
   return (
     <>
-      <h1>My Photo Gallery</h1>
+
       <PhotoGallery images={images} />
     </>
   )
