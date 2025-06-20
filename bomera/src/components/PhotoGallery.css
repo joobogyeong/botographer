@@ -1,0 +1,12 @@
+.photo-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  justify-content: center;
+}
+
+.photo {
+  max-width: 200px;
+  border-radius: 8px;
+  object-fit: cover;
+}
